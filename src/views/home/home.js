@@ -18,7 +18,7 @@ function home() {
         
     
     <div >
-        <h1 className='food-title' style={{color:THEME.highlight , padding:0 , margin:0}}> {MAIN_TITLE}</h1>
+        <h1 className='food-title' style={{color:THEME.main , padding:0 , margin:0}}> {MAIN_TITLE}</h1>
         <p className='food-tagline'>{TAG_LINE}</p>
      
         <div className='food-card-container'>  

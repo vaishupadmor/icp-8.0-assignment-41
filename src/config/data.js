@@ -1,16 +1,16 @@
 
-const MAIN_TITLE = "Foods  heaven..."
+const MAIN_TITLE = "Flower shoppy.."
 
 
 
-const TAG_LINE ="best food in town"
+const TAG_LINE ="best flowers at one place"
 
 
 
 const THEME = {
-    main:"#C0C78C",
-    highlight:"#A6B37D",
-    primary:"C0C78C",
+    main:"#D83A56",
+    highlight:"#66DE93",
+    primary:"FF616D",
     secondary:"#B99470",
     
 }
@@ -20,21 +20,21 @@ const PRODUCTS =[
              title:"Roses"  ,
              description:"fresh and prety flowers",
              
-             price:20
+             price:2
     },
     {
       imgUrl:"https://img.freepik.com/free-photo/fresh-yellow-flowers-green-foliage-dew_23-2148069268.jpg",
              title:"Lily"  ,
              description:"symbol of friendship and trust",
              
-             price:30
+             price:3
     },
     {
       imgUrl:"https://img.freepik.com/free-photo/beautiful-tropical-flowers_23-2148249121.jpg",
       title:"Plumeria"  ,
        description:"beautiful and fresh flowers",
        
-       price:35
+       price:3.5
     },
     {
       imgUrl:"https://img.freepik.com/free-photo/pink-white-lotus-flower-is-water_1340-32309.jpg",

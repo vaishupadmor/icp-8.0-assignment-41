@@ -8,7 +8,7 @@ function navbar() {
 
     <div className='navbar'>
 
-      <img src={flowerimgimg} style={{height:40}}/>
+      <img src={flowerimg} style={{height:40}}/>
        <span className='brand-name'  >  desserts</span> 
 
         <div className='navbar-link'>
