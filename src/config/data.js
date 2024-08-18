@@ -16,40 +16,33 @@ const THEME = {
 }
 const PRODUCTS =[
     {
-      imgUrl:"https://th.bing.com/th/id/OIP.HMsEDd-6te9JWZ2A_EoosAHaE8?rs=1&pid=ImgDetMain",
-             title:"Allu Paratha"  ,
-             description:"fresh and tasty paratha",
-             isveg:true,
-             price:50
+      imgUrl:"https://img.freepik.com/free-photo/top-view-roses-flowers_23-2148860041.jpg",
+             title:"Roses"  ,
+             description:"fresh and prety flowers",
+             
+             price:20
     },
     {
-      imgUrl:"https://i.pinimg.com/originals/14/55/1a/14551a1d3c7f79141e36788f09b57715.jpg",
-             title:"chicken biryani"  ,
-             description:"tasty and spicy",
-             isveg:false,
-             price:210
+      imgUrl:"https://img.freepik.com/free-photo/fresh-yellow-flowers-green-foliage-dew_23-2148069268.jpg",
+             title:"Lily"  ,
+             description:"symbol of friendship and trust",
+             
+             price:30
     },
     {
-      imgUrl:"https://th.bing.com/th/id/OIP.8UeIFPMYwIErE1ShRYB9QAHaEo?rs=1&pid=ImgDetMain",
-      title:"pizza"  ,
-       description:"tasty and yummy pizza with fresh dough",
-       isveg:true,
-       price:300
+      imgUrl:"https://img.freepik.com/free-photo/beautiful-tropical-flowers_23-2148249121.jpg",
+      title:"Plumeria"  ,
+       description:"beautiful and fresh flowers",
+       
+       price:35
     },
     {
-      imgUrl:"https://www.recipemasters.in/wp-content/uploads/2015/06/dahi-bada2.jpeg",
-             title:"dahi wada"  ,
-             description:"mouth watering tasty dahi wada",
-             isveg:true
+      imgUrl:"https://img.freepik.com/free-photo/pink-white-lotus-flower-is-water_1340-32309.jpg",
+             title:"Lotus"  ,
+             description:"Represents divine love ",
+             
     }]
     
 
-    const PERSONS =[
-      {
-        imgUrl:"https://img.freepik.com/free-photo/smiling-cute-female-student-casual-shirt_176420-18233.jpg",
-             title:"prajakta"  ,
-             description:"BCS (bachlors of computer science) and PR manager",
-             
-      }
-    ]
+    
     export {PRODUCTS,MAIN_TITLE , TAG_LINE ,THEME }
